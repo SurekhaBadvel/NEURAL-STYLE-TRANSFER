@@ -61,3 +61,10 @@ styled_output.jpg
 This project has many real-world applications in digital art, graphic design, entertainment, photo editing, and social media content creation. Artists and designers can create unique artistic effects automatically using AI. It is also useful in creative industries, gaming, advertising, and mobile photo editing applications.
 
 This project demonstrates how Artificial Intelligence and Deep Learning can be used to generate artistic images through Neural Style Transfer. By using Google Colab, TensorFlow, and VGG19, developers can easily create advanced AI-powered image transformation applications without requiring expensive hardware or advanced machine learning expertise.
+
+
+#OUTPUT
+
+<img width="934" height="425" alt="Image" src="https://github.com/user-attachments/assets/bf19b18f-59e1-4a57-9d5e-223ce19b7d5d" />
+
+<img width="846" height="544" alt="Image" src="https://github.com/user-attachments/assets/942bfca7-482c-49ba-9558-6df120326a4f" />
